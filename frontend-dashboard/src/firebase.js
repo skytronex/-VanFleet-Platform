@@ -5,7 +5,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: "AIzaSyCyziMmBDF3EUic692NgehZ4hQLk8NdHvo",
+    apiKey: "AIzaSyCyziMmBDF3EUic692NgehZ4HQLk8NdHvo",
     authDomain: "vanfleet-platform.firebaseapp.com",
     projectId: "vanfleet-platform",
     storageBucket: "vanfleet-platform.firebasestorage.app",
